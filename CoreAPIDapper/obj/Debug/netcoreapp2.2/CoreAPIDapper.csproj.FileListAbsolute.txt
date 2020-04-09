@@ -1,0 +1,14 @@
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\bin\Debug\netcoreapp2.2\CoreAPIDapper.deps.json
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\bin\Debug\netcoreapp2.2\CoreAPIDapper.runtimeconfig.json
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\bin\Debug\netcoreapp2.2\CoreAPIDapper.runtimeconfig.dev.json
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\bin\Debug\netcoreapp2.2\CoreAPIDapper.dll
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.csprojAssemblyReference.cache
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.csproj.CoreCompileInputs.cache
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.RazorAssemblyInfo.cache
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.RazorAssemblyInfo.cs
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.AssemblyInfoInputs.cache
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.AssemblyInfo.cs
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.RazorTargetAssemblyInfo.cache
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\bin\Debug\netcoreapp2.2\CoreAPIDapper.pdb
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.dll
+D:\Practice\Core\CoreAPIDapper\CoreAPIDapper\obj\Debug\netcoreapp2.2\CoreAPIDapper.pdb
